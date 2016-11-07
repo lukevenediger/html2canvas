@@ -1,8 +1,8 @@
 {
-  "title": "html2canvas",
-  "name": "html2canvas",
-  "description": "Screenshots with JavaScript",
-  "main": "dist/html2canvas.js",
+  "title": "html2canvas-webpack",
+  "name": "html2canvas-webpack",
+  "description": "Screenshots with JavaScript - now with webpack friendliness",
+  "main": "src/core.js",
   "version": "0.5.0-beta4",
   "author": {
     "name": "Niklas von Hertzen",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:niklasvh/html2canvas.git"
+    "url": "git@github.com:lukevenediger/html2canvas.git"
   },
   "bugs": {
-    "url": "https://github.com/niklasvh/html2canvas/issues"
+    "url": "https://github.com/lukevenediger/html2canvas/issues"
   },
   "devDependencies": {
     "base64-arraybuffer": "^0.1.5",
